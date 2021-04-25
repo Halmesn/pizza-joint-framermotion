@@ -11,7 +11,7 @@
     A project I did when I was learning <a href="https://www.framer.com/motion/">Framer Motion
     </a>library
     <br />
-    <a href="https://next-event-alpha.vercel.app/"><strong>View Demo »</strong></a>
+    <a href="https://pizza-joint-framermotion.vercel.app/"><strong>View Demo »</strong></a>
     <br />
   </p>
 </p>
@@ -20,9 +20,9 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://next-event-alpha.vercel.app/)
+[![Product Name Screen Shot][product-screenshot]](https://pizza-joint-framermotion.vercel.app/)
 
-This is a very simple project I made when I was learning Framer Motion library.
+This is a very simple project I keep for future ref so I don't need to check Framer motion's docs very often if I forget some usages.
 
 **The animations this project uses are bit crazy, I won't use them on real-world projects. It's only for learning purpose.**
 
