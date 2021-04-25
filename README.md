@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://nextjs.org/">
-    <img src="https://github.com/Halmesn/NextEvent/blob/main/public/images/nextjs.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Halmesn/pizza-joint-framermotion/blob/main/public/framermotion.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">PizzaJoint</h3>
@@ -42,4 +42,4 @@ After doing this project I could use Framer Motion quite well:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: https://github.com/Halmesn/NextEvent/blob/main/public/images/NextEvent.png
+[product-screenshot]: https://github.com/Halmesn/pizza-joint-framermotion/blob/main/public/pizza-joint.png
