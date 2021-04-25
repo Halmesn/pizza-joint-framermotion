@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://nextjs.org/">
+    <img src="https://github.com/Halmesn/NextEvent/blob/main/public/images/nextjs.png" alt="Logo" width="80" height="80">
+  </a>
 
-## Getting Started
+  <h3 align="center">PizzaJoint</h3>
 
-First, run the development server:
+  <p align="center">
+    A project I did when I was learning the Framer Motion <a href="https://www.framer.com/motion/">
+    library</a>    
+    <br />
+    <a href="https://next-event-alpha.vercel.app/"><strong>View Demo »</strong></a>
+    <br />
+  </p>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<!-- ABOUT THE PROJECT -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About The Project
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+[![Product Name Screen Shot][product-screenshot]](https://next-event-alpha.vercel.app/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+This is a very simple project I made when I was learning the Framer Motion library.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+**The animations this project uses are bit crazy, I won't use them on real-world projects. It's only for learning purpose.**
 
-## Learn More
+After doing this project I could use Framer Motion quite well:
+<br/>
 
-To learn more about Next.js, take a look at the following resources:
+<ul>
+  <li>How to add animations to certain elements using variants</li>
+  <li>How to animate elements with keyframes</li>
+  <li>How to animate page transitions</li>
+  <li>How to animate modal</li>
+  <li>How to animate Svg</li>
+  <li>How to control animation start/end</li>
+  <li>How to cycle animation</li>
+</ul>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[product-screenshot]: https://github.com/Halmesn/NextEvent/blob/main/public/images/NextEvent.png
