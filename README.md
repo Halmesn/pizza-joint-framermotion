@@ -11,8 +11,6 @@
     A project I did when I was learning <a href="https://www.framer.com/motion/">Framer Motion
     </a>library
     <br />
-    <a href="https://pizza-joint-framermotion.vercel.app/"><strong>View Demo »</strong></a>
-    <br />
   </p>
 </p>
 
